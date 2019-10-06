@@ -1,1 +1,1 @@
-# joiplayer-release
+# JoiPlayer Release Repository
